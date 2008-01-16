@@ -36,7 +36,7 @@ Use HTML::Template templates with L<App::TemplateServer|App::TemplateServer>.
 
    template-server --provider HTML::Template --docroot /your/templates
 
-See L<template-server> and <App::TemplateServer> for details.
+See L<template-server> and L<App::TemplateServer> for details.
 
 =head1 AUTHOR AND COPYRIGHT
 
