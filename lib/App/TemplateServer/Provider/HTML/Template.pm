@@ -25,3 +25,23 @@ method render_template($template_file, $context){
 1;
 
 __END__
+
+=head1
+
+App::TemplateServer::Provider::HTML::Template - serve HTML::Template templates with App::TemplateServer
+
+=head1 SYNOPSIS
+
+Use HTML::Template templates with L<App::TemplateServer|App::TemplateServer>.
+
+   template-server --provider HTML::Template --docroot /your/templates
+
+See L<template-server> and <App::TemplateServer> for details.
+
+=head1 AUTHOR AND COPYRIGHT
+
+Jonathan Rockway C<< <jrockway@cpan.org> >>
+
+This module is Free software, you may redistribute it under the same
+terms as Perl itself.
+
