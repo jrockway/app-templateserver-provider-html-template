@@ -26,7 +26,7 @@ method render_template($template_file, $context){
 
 __END__
 
-=head1
+=head1 NAME
 
 App::TemplateServer::Provider::HTML::Template - serve HTML::Template templates with App::TemplateServer
 
